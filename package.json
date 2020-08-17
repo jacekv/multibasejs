@@ -1,0 +1,21 @@
+{
+  "name": "multibasejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "base-x": "^3.0.8",
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1",
+    "web-encoding": "^1.0.2"
+  }
+}
